@@ -15,3 +15,6 @@ quote:
 >- Caffe
 >- Iree (which uses LLVM Multi-Level Intermediate Representation (MLIR))
 >- llama.cpp
+
+# Developer Central
+https://www.amd.com/en/developer/resources/open-source-models.html
